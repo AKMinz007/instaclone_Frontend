@@ -1,0 +1,46 @@
+#landingPage-Container{
+    width:100%;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    
+}
+
+#section-01{
+    width:50%;
+    height:100%;
+}
+#section-01 img{
+    width:100%;
+    height: 100%;
+}
+#section-02 {
+    width:50%;
+    height: 100%;
+    color:#006238;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#section-02 h1{
+    font-size: 2em;
+}
+#section-02 button{
+    width:90px;
+    height: 40px;
+    border:1px solid #006238;
+    border-radius: 5px  ;
+    text-decoration: none;
+    color:#006238;
+    
+}
+
+#section-02 a{
+    text-decoration: none;
+    font-size: 1em;
+    color:#006238;
+}

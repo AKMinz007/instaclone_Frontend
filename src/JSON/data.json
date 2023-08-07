@@ -1,0 +1,28 @@
+{
+    "users":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/10x_academy/original.png?1622233879",
+            "date": "12/02/2022"
+            },
+
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg",
+            "date": "15/05/2022"
+            },
+            
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://c0.wallpaperflare.com/preview/443/218/496/aeroplane-aircraft-airline-airliner.jpg",
+            "date": "10/06/2022"
+            }
+            ]
+}

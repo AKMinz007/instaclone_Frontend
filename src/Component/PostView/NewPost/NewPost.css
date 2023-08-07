@@ -1,0 +1,46 @@
+#form-container{
+    width:400px;
+    height:220px;
+    margin-left:550px;
+    margin-top:40px;
+    border:1px solid black;
+    border-radius:5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+#form-container input{
+    padding:5px;
+    margin:15px 10px 15px 10px;
+}
+
+#form-container #file-lable{
+    padding:4px;
+    border:1px solid gray;
+    border-radius: 4px;
+}
+
+#form-container .input-box-01-style{
+    width:360px;
+    border:1px solid gray;
+    padding:4px;
+}
+
+/* #form-container #input-file{
+  display:block;
+} */
+#form-container .input-box-02-style{
+    width:41%;
+}
+
+#form-container .input-box-03-style{
+    width:360px;
+}
+
+#form-container button{
+    width:90px;
+    height:30px;
+    margin-left:160px;
+}
+
